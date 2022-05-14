@@ -1,0 +1,12 @@
+F:\Work\QuaHD\src\QuaHD.Application.Shared\bin\Debug\net6.0\QuaHD.Application.Shared.deps.json
+F:\Work\QuaHD\src\QuaHD.Application.Shared\bin\Debug\net6.0\QuaHD.Application.Shared.dll
+F:\Work\QuaHD\src\QuaHD.Application.Shared\bin\Debug\net6.0\QuaHD.Application.Shared.pdb
+F:\Work\QuaHD\src\QuaHD.Application.Shared\obj\Debug\net6.0\QuaHD.Application.Shared.csproj.AssemblyReference.cache
+F:\Work\QuaHD\src\QuaHD.Application.Shared\obj\Debug\net6.0\QuaHD.Application.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\QuaHD\src\QuaHD.Application.Shared\obj\Debug\net6.0\QuaHD.Application.Shared.AssemblyInfoInputs.cache
+F:\Work\QuaHD\src\QuaHD.Application.Shared\obj\Debug\net6.0\QuaHD.Application.Shared.AssemblyInfo.cs
+F:\Work\QuaHD\src\QuaHD.Application.Shared\obj\Debug\net6.0\QuaHD.Application.Shared.csproj.CoreCompileInputs.cache
+F:\Work\QuaHD\src\QuaHD.Application.Shared\obj\Debug\net6.0\QuaHD.Application.Shared.dll
+F:\Work\QuaHD\src\QuaHD.Application.Shared\obj\Debug\net6.0\refint\QuaHD.Application.Shared.dll
+F:\Work\QuaHD\src\QuaHD.Application.Shared\obj\Debug\net6.0\QuaHD.Application.Shared.pdb
+F:\Work\QuaHD\src\QuaHD.Application.Shared\obj\Debug\net6.0\ref\QuaHD.Application.Shared.dll
