@@ -8,6 +8,6 @@ using System.Threading.Tasks;
 namespace QuaHD.Core.Entities.Authorization
 {
     public class User : IdentityUser<int>
-    {
+    {       
     }
 }

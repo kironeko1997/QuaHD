@@ -8,6 +8,5 @@ namespace QuaHD.Application.Shared.Products
 {
     public class GetAllProductTypeInput : Input
     {
-
     }
 }
